@@ -1,0 +1,16 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.local
+*.log
+.env
+.env.*
+.npmrc
+.yarnrc*
+.vscode/
+.idea/
+*.pem
+*.key
+*.p12
+*.pfx
