@@ -2,7 +2,13 @@
 
 A standalone SWYNEX Task 3 project built with React 19 and Vite. A responsive, searchable people directory with a warm ivory palette, navy typography, pastel initial avatars, and reusable profile cards.
 
-This is a standalone Task 3 project containing only the People Directory source, tests, and setup documentation.
+This is a standalone Task 3 project containing the People Directory source, tests, demo video, and setup documentation.
+
+## Demo Video
+
+[Watch the Task 3 People Directory demo (MP4, 25 seconds)](docs/demo/swynex-api-integration-demo.mp4)
+
+The recording shows real API users loading, search, city filtering, the no-results state, and clearing filters. It was captured in an isolated browser with live API data and network throttling to make loading visible. The silent, 24.88-second MP4 was verified to play from start to finish.
 
 ## Setup
 
