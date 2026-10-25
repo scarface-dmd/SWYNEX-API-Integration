@@ -4,6 +4,14 @@ A standalone SWYNEX Task 3 project built with React 19 and Vite. A responsive, s
 
 This is a standalone Task 3 project containing the People Directory source, tests, demo video, and setup documentation.
 
+## Live Demo
+
+[Open the People Directory on Netlify](https://swynex-api-integration.netlify.app/)
+
+Hosted as a separate Netlify site. The production build uses the existing lockfile with `npm ci`, followed by `npm run build`, and publishes `dist/` with Vite's root `/` base path. The public site was verified in Google Chrome with live API users, search, city filtering, no-results recovery, and mobile overflow checks at 320px and 390px.
+
+This is a CLI deployment; GitHub pushes do not automatically redeploy the Netlify site. Existing sites and GitHub Pages settings were not changed.
+
 ## Demo Video
 
 [Watch the Task 3 People Directory demo (MP4, 25 seconds)](docs/demo/swynex-api-integration-demo.mp4)
